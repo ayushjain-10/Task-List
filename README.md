@@ -1,7 +1,7 @@
 # Task-List
 
 
-Application using express and mongodb to create, read, update and delete tasks.
+Application using express and mongodb to update task list
 
 ### Installation- Option 1
 
