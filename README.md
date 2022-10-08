@@ -1,10 +1,9 @@
 # Task-List
 
-
 Application using express and mongodb to update task list
 
-### Installation- Option 1
 
+### Installation- Docker Compose (Recommended)
 
 1. Clone the repo
 
@@ -16,12 +15,16 @@ Application using express and mongodb to update task list
 
 3. Open localhost:3000
 
-## Installation - Option 2
+
+### Installation- Manually
+
 
 1. Clone the repo
 
-2. Run the docker-compose file
+2. Install dependencies
     ```
-    $ docker-compose up
+    $ npm install
+    $ npm start
     ```
+
 3. Open localhost:3000
